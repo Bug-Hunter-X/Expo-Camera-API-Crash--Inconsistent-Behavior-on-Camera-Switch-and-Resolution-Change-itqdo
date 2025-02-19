@@ -1,0 +1,1 @@
+This error occurs when using the Expo `Camera` API with certain camera configurations, particularly when switching between cameras or changing resolutions.  The exact cause is elusive and may vary depending on device and Expo SDK version.  The error manifests as a crash or a blank screen, and often lacks helpful debugging information in the console.
